@@ -32,8 +32,12 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
+<img width="1600" height="708" alt="WhatsApp Image 2026-09-08 at 6 30 32 PM" src="https://github.com/user-attachments/assets/22aa1948-50f0-4c5f-add5-8950c8dd6c59" />
 
+<img width="1600" height="701" alt="WhatsApp Image 2026-09-08 at 6 30 32 PM (1)" src="https://github.com/user-attachments/assets/b1d0aed4-5d0a-48e0-af84-6f0b9d812ae1" />
+<img width="1600" height="720" alt="WhatsApp Image 2026-09-08 at 6 30 32 PM (2)" src="https://github.com/user-attachments/assets/0c34e34b-9153-41dc-afd5-b978b0b36362" />
 
+<img width="1600" height="705" alt="WhatsApp Image 2026-09-08 at 6 30 32 PM (3)" src="https://github.com/user-attachments/assets/2d14aedf-5fbe-4136-a1da-aae98c9a92b1" />
 
 
 1. AC Input Waveform
